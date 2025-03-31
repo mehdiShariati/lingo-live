@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST='{"node_modules\\\\.pnpm\\\\@livekit+components-react@2_b531ea0623bb57bd7d4302e58b8ea4b6\\\\node_modules\\\\@livekit\\\\components-react\\\\dist\\\\krisp.mjs -> @livekit/krisp-noise-filter":{"id":6963,"files":["static/chunks/c2a7a40d.dabbe94b648a4e0d.js"]}}';
