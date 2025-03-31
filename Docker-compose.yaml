@@ -9,4 +9,4 @@ services:
       - "3200:3000"
     environment:
       - NODE_ENV=production
-    restart: always
+    restart: always 
